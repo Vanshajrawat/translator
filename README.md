@@ -1,1 +1,1 @@
-﻿# my_all_projects
+AI Project
