@@ -25,5 +25,5 @@ A multilingual desktop application that translates text and voice input across 3
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/translator-app.git
+   git clone https://github.com/Vanshajrawat/translator-app.git
    cd translator-app
